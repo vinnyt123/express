@@ -1,7 +1,7 @@
-name: express
-version: 3.0.1
-author: eahefnawy
-org: serverlessinc
+name: selectext-express
+version: 3.0.2
+author: vinnyt123
+org: vinnyt123
 description: Deploys a serverless Express.js application onto AWS Lambda and AWS HTTP API.
 keywords: aws, serverless, express
 repo: https://github.com/serverless-components/express
